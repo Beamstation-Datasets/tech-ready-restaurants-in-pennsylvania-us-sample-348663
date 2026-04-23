@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2b131953-6a54-4127-be5b-40ec0d5bbea4",
+  "export_job_id": "1444e612-6c20-4efe-b0ef-382c170afdb9",
   "id_short": 348663,
-  "published_at": "2026-04-19T07:50:08Z",
+  "published_at": "2026-04-23T07:32:26Z",
   "repo_name": "tech-ready-restaurants-in-pennsylvania-us-sample-348663",
   "sample_asset_name": "beamstation_348663_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/348663/beamstation_348663_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "0d746f368a6cd157cad11e2dec79571f2bc313f82982f52d1b14199b28cb8fe4",
-  "sample_size_bytes": 45505,
-  "total_records": 82
+  "sample_records": 4,
+  "sample_sha256": "08bc4f0d8b55fd4f052dbde76ea152013bc552d3f7f9d0b2d908cb248947cb17",
+  "sample_size_bytes": 30276,
+  "total_records": 45
 }
