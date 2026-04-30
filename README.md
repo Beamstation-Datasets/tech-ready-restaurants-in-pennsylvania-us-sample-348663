@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Pennsylvania, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `348663` |
 | Location | Pennsylvania |
 | Category | Restaurants |
-| Full dataset size | 45 records |
-| Free sample size | 4 records (8.89%) |
-| Last export | 2026-04-22T19:21:07.449059+00:00 |
+| Full dataset size | 158 records |
+| Free sample size | 15 records (9.49%) |
+| Last export | 2026-04-29T18:31:48.025200+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-pennsylvania-us-sample-348663/releases/download/sample-latest/beamstation_348663_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
